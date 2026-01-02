@@ -1,1 +1,1 @@
-console.log("Digital Marketing Website Loaded Successfully");
+console.log("MarketHack website loaded successfully");
